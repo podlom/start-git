@@ -1,1 +1,23 @@
-1
+info.txt
+.aria2/
+systeminfo.txt
+.nbi/
+.oracle_jre_usage/
+Application Data/
+Cookies/
+IECompatCache/
+IETldCache/
+Local Settings/
+PrivacIE/
+Recent/
+SendTo/
+dd_vcredist_x86_20050709092707.log
+dd_vcredist_x86_20050709092707_0_vcRuntimeMinimum_x86.log
+dd_vcredist_x86_20050709092707_1_vcRuntimeAdditional_x86.log
+default.pls
+ntuser.dat
+ntuser.dat.LOG
+ntuser.ini
+ntuser.pol
+resume1.html
+.gitconfig
