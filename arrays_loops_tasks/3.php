@@ -1,20 +1,14 @@
 ﻿<?php
       
-      $arr = array(26, 17, 136, 12, 79, 15);
-            foreach ($arr as $item) {
-	        $i = $b = array_sum($arr);
-	        $result = $i * $b;
-	        echo $result;
-	        break;
-	
-	     }
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	 
-	
+/**
+ * 3. Дан массив с элементами 26, 17, 136, 12, 79, 15. 
+ * С помощью цикла foreach найдите сумму квадратов элементов этого массива. Результат запишите переменную $result.
+ */
 
+$arr = array(26, 17, 136, 12, 79, 15);
+
+foreach ($arr as $item) {
+    $result += pow($item, 2);       
+}
+
+echo $result;	  
